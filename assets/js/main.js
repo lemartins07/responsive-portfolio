@@ -126,9 +126,9 @@ const swiperTestimonial = new Swiper('.testimonial__container', {
     dynamicBullets: true
   },
 
-  breakpoinst: {
+  breakpoints: {
     568: {
-      slidePerView: 2
+      slidesPerView: 2
     }
   }
 })
